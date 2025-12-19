@@ -1,6 +1,3 @@
 Marlon Douglas
 
-
-estou pensando
-
-continuo pensando
+API PokeAPI (3 partes): https://www.youtube.com/watch?v=Zr9SMQH4M_A
